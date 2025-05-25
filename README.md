@@ -1,36 +1,25 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎨 EmptyCup – Designer Listing Mobile Web App
 
-## Getting Started
+EmptyCup is a clean and mobile-first web application that showcases a curated list of interior designer studios. Built with a minimal aesthetic and smooth user interface, the app helps users explore and shortlist top studios based on experience, pricing, and reviews.
 
-First, run the development server:
+🌐 **Live Demo:** https://empty-cup-tau.vercel.app/
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🔥 Features
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- ✅ **Mobile-First Design** – Optimized UI for mobile viewing
+- ⭐ **Studio Ratings & Reviews** – Star-based rating system
+- 🧾 **Project Stats** – Projects completed, years of experience, and pricing
+- 📌 **User Actions** – Shortlist, report, hide, and view details
+- 📍 **Navigation Tabs** – Quick access to Contacts, Gallery, Map, and more
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🛠 Tech Stack
 
-To learn more about Next.js, take a look at the following resources:
+- **HTML**
+- **CSS**
+- **JavaScript**
+- Hosted on **Vercel**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.

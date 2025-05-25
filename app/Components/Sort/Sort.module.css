@@ -1,0 +1,72 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 16px 24px 25px 16px;
+  width: 100%;
+  height: 100%;
+}
+
+.ions {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  flex-direction: row;
+}
+
+.leftions {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.rightions {
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+
+.Contact {
+    border: 1px;
+    color: #E0A64E;
+    margin-right: 20px;
+}
+
+.Photo {
+  margin-right: 35px;
+}
+
+.Location {
+  margin-right: 86px;
+}
+
+.Clipboard {
+  margin-right: 21px;
+}
+
+
+.Contact,
+.Photo,
+.Location,
+.Clipboard,
+.Line {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 34px;
+  height: 42px;
+}
+
+.Photo p,
+.Location p,
+.Clipboard p,
+.Line p {
+  font-size: 8px;
+  margin-top: 4px;
+  text-align: center;
+}
+.Contact p{
+  font-size: 8px;
+  margin-top: 13px;
+  text-align: center;
+}

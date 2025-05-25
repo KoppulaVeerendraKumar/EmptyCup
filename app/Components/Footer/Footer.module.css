@@ -1,0 +1,27 @@
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 35px 31px 2px 33px;
+    width: 100%;
+    height: 100%;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    flex-direction: row;
+}
+.leftname p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #000000;
+
+}
+.rightname p{
+    font-size: 8px;
+    font-weight: 400;
+    color: #8D4337;
+
+}
